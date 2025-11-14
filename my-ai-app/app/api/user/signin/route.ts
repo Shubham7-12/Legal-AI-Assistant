@@ -1,4 +1,4 @@
-import { prismaClient } from "@/lib/prisma";
+
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 //import bcryptjs from "bcryptjs"
